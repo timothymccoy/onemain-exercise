@@ -1,0 +1,3 @@
+/*
+Utility file to check for valid authorization
+*/
